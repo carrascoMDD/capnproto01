@@ -1,0 +1,36 @@
+svn revert capnproto01/trials/trialJava01/capnproto-java/examples/src/main/java/org/capnproto/examples/Addressbook.java
+svn revert capnproto01/trials/trialJava01/capnproto-java/examples/src/main/java/org/capnproto/examples/AddressbookMain.java
+svn revert capnproto01/trials/trialJava01/capnproto-java/examples/src/main/java/org/capnproto/examples/CoupleModelsCapnp.java
+svn revert capnproto01/trials/trialJava01/capnproto-java/examples/src/main/java/org/capnproto/examples/CoupleModelsDmesglogLineCapnpCached.java
+svn revert capnproto01/trials/trialJava01/capnproto-java/examples/src/main/java/org/capnproto/examples/CoupleModelsDmesglogLineCapnpFacade.java
+svn revert capnproto01/trials/trialJava01/capnproto-java/examples/src/main/java/org/capnproto/examples/CoupleModelsNginxlogLineCapnpCached.java
+svn revert capnproto01/trials/trialJava01/capnproto-java/examples/src/main/java/org/capnproto/examples/CoupleModelsNginxlogLineCapnpFacade.java
+svn revert capnproto01/trials/trialJava01/capnproto-java/examples/src/main/java/org/capnproto/examples/DmesglogLineBean.java
+svn revert capnproto01/trials/trialJava01/capnproto-java/examples/src/main/java/org/capnproto/examples/MainNginxlogCapnp.java
+svn revert capnproto01/trials/trialJava01/capnproto-java/examples/src/main/java/org/capnproto/examples/MainNginxlogCapnpCached.java
+svn revert capnproto01/trials/trialJava01/capnproto-java/examples/src/main/java/org/capnproto/examples/MainNginxlogCapnpFacade.java
+svn revert capnproto01/trials/trialJava01/capnproto-java/examples/src/main/java/org/capnproto/examples/NginxlogCapnp.java
+svn revert capnproto01/trials/trialJava01/capnproto-java/examples/src/main/java/org/capnproto/examples/NginxlogCapnpFacadeMain.java
+svn revert capnproto01/trials/trialJava01/capnproto-java/examples/src/main/java/org/capnproto/examples/NginxlogCapnpMain.java
+svn revert capnproto01/trials/trialJava01/capnproto-java/examples/src/main/java/org/capnproto/examples/NginxlogLineBean.java
+svn revert capnproto01/trials/trialJava01/capnproto-java/examples/src/main/java/org/capnproto/examples/NginxlogLineCapnpCached.java
+svn revert capnproto01/trials/trialJava01/capnproto-java/examples/src/main/java/org/capnproto/examples/NginxlogLineCapnpFacade.java
+
+
+svn del     capnproto01/trials/trialJava01/capnproto-java/examples/src/main/java/org/capnproto/examples/Addressbook.java
+svn del     capnproto01/trials/trialJava01/capnproto-java/examples/src/main/java/org/capnproto/examples/AddressbookMain.java
+svn del     capnproto01/trials/trialJava01/capnproto-java/examples/src/main/java/org/capnproto/examples/CoupleModelsCapnp.java
+svn del     capnproto01/trials/trialJava01/capnproto-java/examples/src/main/java/org/capnproto/examples/CoupleModelsDmesglogLineCapnpCached.java
+svn del     capnproto01/trials/trialJava01/capnproto-java/examples/src/main/java/org/capnproto/examples/CoupleModelsDmesglogLineCapnpFacade.java
+svn del     capnproto01/trials/trialJava01/capnproto-java/examples/src/main/java/org/capnproto/examples/CoupleModelsNginxlogLineCapnpCached.java
+svn del     capnproto01/trials/trialJava01/capnproto-java/examples/src/main/java/org/capnproto/examples/CoupleModelsNginxlogLineCapnpFacade.java
+svn del     capnproto01/trials/trialJava01/capnproto-java/examples/src/main/java/org/capnproto/examples/DmesglogLineBean.java
+svn del     capnproto01/trials/trialJava01/capnproto-java/examples/src/main/java/org/capnproto/examples/MainNginxlogCapnp.java
+svn del     capnproto01/trials/trialJava01/capnproto-java/examples/src/main/java/org/capnproto/examples/MainNginxlogCapnpCached.java
+svn del     capnproto01/trials/trialJava01/capnproto-java/examples/src/main/java/org/capnproto/examples/MainNginxlogCapnpFacade.java
+svn del     capnproto01/trials/trialJava01/capnproto-java/examples/src/main/java/org/capnproto/examples/NginxlogCapnp.java
+svn del     capnproto01/trials/trialJava01/capnproto-java/examples/src/main/java/org/capnproto/examples/NginxlogCapnpFacadeMain.java
+svn del     capnproto01/trials/trialJava01/capnproto-java/examples/src/main/java/org/capnproto/examples/NginxlogCapnpMain.java
+svn del     capnproto01/trials/trialJava01/capnproto-java/examples/src/main/java/org/capnproto/examples/NginxlogLineBean.java
+svn del     capnproto01/trials/trialJava01/capnproto-java/examples/src/main/java/org/capnproto/examples/NginxlogLineCapnpCached.java
+svn del     capnproto01/trials/trialJava01/capnproto-java/examples/src/main/java/org/capnproto/examples/NginxlogLineCapnpFacade.java
